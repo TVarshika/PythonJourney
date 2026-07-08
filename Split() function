@@ -1,0 +1,8 @@
+class= "1,2,3".split(",")
+print class
+# This gives ['1', '2', '3'] as output.
+
+text = "Hello   world".split()
+print(text)
+#Separator not used.
+
