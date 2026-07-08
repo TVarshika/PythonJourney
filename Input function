@@ -1,0 +1,4 @@
+name = input("Enter your name:")
+print("Hello",name,"!")
+# Python's input() function is used to take user input. 
+# By default, it returns the user input in form of a string. 
